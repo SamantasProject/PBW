@@ -1,0 +1,40 @@
+﻿OK
+
+
+.header {
+    grid-area: hd;
+    display: flex;
+    align items: center;
+    justify-content: space-between;
+    background-color: #ffd733;
+    padding: 1.5em 1.5em;
+    font-family:  "Roboto", sans-serif;
+    font-size: 0.9em;
+    font-color: #ff5733;
+}
+
+
+.logo {
+    width: 10em;
+    height: 10em;
+}
+
+
+.navbar {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  background-color: #ffd733;
+  list-style-type: none;
+  height: 60px;
+  margin: 0px;
+  padding: 0px;
+}
+
+
+.navbar-items {
+  font-family:  "Roboto", sans-serif;
+  font-size: 0.5em;
+  color: #ff5733;
+}

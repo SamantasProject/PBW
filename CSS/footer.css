@@ -1,0 +1,34 @@
+﻿OK
+
+
+.footer {
+    grid-area: ft;
+    display: flex;
+    align items: center;
+    justify-content: space-between;
+    background-color: #ffd733;
+    padding: 1.5em 1.5em;
+    font-family:  "Roboto", sans-serif;
+    font-size: 0.9em;
+    font-color: #ff5733;
+}
+
+
+OK
+
+
+.social-media-links {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2em;
+}
+
+
+OK
+
+
+.social-media-links img {
+    width: 1em;
+    height: 1.5em;
+    margin: 0 1em;
+}

@@ -1,0 +1,67 @@
+﻿@import url “header.css”;
+@import url “body.css”;
+@import url “footer.css”;
+
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+OK
+
+
+h1  {
+    color: #2F4F4F
+}
+
+
+OK
+h2  {
+    text-align: center;
+    margin-bottom: 4em;
+    font-size: auto;
+    color: #2F4F4F
+}
+
+
+OK
+
+
+h3  {
+    color: #2F4F4F
+}
+
+
+p {
+    font-weight: 100;
+    font-size: 0.5em; 
+    color: #2F4F4F
+}
+
+
+button {
+    font-size: 0.5em;
+}
+
+
+
+
+a {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+.container {
+    display: grid;
+    grid-template-rows: auto auto 100px;
+    grid-template-areas:
+    "hd”
+    "ct"
+    "ft";
+    font-family: "Roboto", sans-serif;
+}
