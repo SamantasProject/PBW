@@ -1,8 +1,4 @@
-﻿OK
-
-
 .footer {
-    grid-area: ft;
     display: flex;
     align items: center;
     justify-content: space-between;
@@ -14,17 +10,11 @@
 }
 
 
-OK
-
-
 .social-media-links {
     display: flex;
     justify-content: center;
     margin-bottom: 2em;
 }
-
-
-OK
 
 
 .social-media-links img {
