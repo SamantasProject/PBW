@@ -1,6 +1,6 @@
 .all-posts {
     display: grid;
-    align-items: center;
+    align-items: stretch;
     justify-content: space-evenly;
     grid-template-rows: 1fr 1fr 1fr;
     margin: 2em;
