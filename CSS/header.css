@@ -18,20 +18,20 @@
 
 
 .navbar {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: space-evenly;
-  background-color: #ffd733;
-  list-style-type: none;
-  height: 60px;
-  margin: 0px;
-  padding: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: #ffd733;
+    list-style-type: none;
+    height: 60px;
+    margin: 0px;
+    padding: 0px;
 }
 
 
 .navbar-items {
-  font-family:  "Roboto", sans-serif;
-  font-size: 0.5em;
-  color: #ff5733;
+    font-family:  "Roboto", sans-serif;
+    font-size: 0.5em;
+    color: #ff5733;
 }
