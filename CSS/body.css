@@ -1,8 +1,9 @@
 .all-posts {
     display: grid;
-    align-items: stretch;
+    align-items: center;
     justify-content: space-evenly;
-    grid-template-rows: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: auto;
     margin: 2em;
     gap: 12em;
     font-family: "Roboto", sans-serif;
