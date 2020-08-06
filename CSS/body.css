@@ -1,6 +1,6 @@
-* {
-    margin: 2em;
-    padding: 2em;
+.intro-text {
+    margin: 20px;
+    padding: 20px;
 }
 
 .all-posts {
