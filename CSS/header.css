@@ -3,7 +3,6 @@
     display: flex;
     align items: center;
     justify-content: space-between;
-    flex-wrap: wrap;
     background-color: #ffd733;
     padding: 1.5em 1.5em;
     font-family:  "Roboto", sans-serif;
@@ -15,7 +14,6 @@
     display: flex;
     align items: center;
     justify-content: space-between;
-    flex-wrap: wrap;
     width: 960px;
     max-width: 100%;
     padding: 20px;
@@ -23,8 +21,8 @@
 }
 
 .nav ul {
-    margin: 1em 0.5em;
-    text-align: center;
+    margin: 1em 1em;
+    text-align: inline;
 }
 
 .nav li {
@@ -32,8 +30,8 @@
 }
 
 .nav a {
-    display: inline-block;
-    padding: .5em 1.5em;
+    display: inline;
+    padding: 1em 1em;
 }
 
 .logo {
