@@ -12,28 +12,28 @@
 }
 
 .container {
-	display: flex;
-	align-items: center;
-	justify-content: space-around;
-	flex-wrap: wrap;
-	width: 960px;
-	max-width: 100%;
-	padding: 20px;
-	margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 960px;
+    max-width: 100%;
+    padding: 20px;
+    margin: 0 auto;
 }
 
 .nav ul {
-	margin: 1em 0.5em;
-	text-align: center;
+    margin: 1em 0.5em;
+    text-align: center;
 }
 
 .nav li {
-	display: inline;
+    display: inline;
 }
 
 .nav a {
-	display: inline-block;
-	padding: .5em 1.5em;
+    display: inline-block;
+    padding: .5em 1.5em;
 }
 
 .logo {
@@ -42,6 +42,6 @@
 }
 
 img {
-	width: auto;
-	height: auto;
+    width: auto;
+    height: auto;
 }
