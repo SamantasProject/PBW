@@ -1,6 +1,6 @@
 .header {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     align-items: center;
     justify-content: space-between;
     background-color: #ffd733;
@@ -8,6 +8,14 @@
     font-family:  "Roboto", sans-serif;
     font-size: 0.9em;
     font-color: #ff5733;
+}
+
+.navbar {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    padding: auto;
+    margin: auto;
 }
 
 .logo {
