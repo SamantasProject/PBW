@@ -11,11 +11,6 @@
     font-color: #ff5733;
 }
 
-.intro {
-    padding: 1em 1em;
-    margin: 1em 1em;
-}
-
 .navbar {
     display: flex;
     flex-direction: row;
@@ -39,7 +34,7 @@
 }
 
 .logo {
-    width: .5em;
-    height: .5em;
+    width: 10px;
+    height: 10px;
 }
 
