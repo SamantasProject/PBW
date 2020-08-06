@@ -1,8 +1,6 @@
 .header {
-    grid-area: hd;
     display: flex;
-    flex-direction: row;
-    align-items: center;
+    align items: center;
     justify-content: space-between;
     background-color: #ffd733;
     padding: 1.5em 1.5em;
@@ -16,25 +14,20 @@
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
-    width: 960px;
-    max-width: 100%;
+    width: auto;
     padding: auto;
     margin: auto;
 }
 
 .nav-items {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: space-between;
-  list-style-type: none;
-  height: 60px;
-  margin: 0px;
-  padding: 0px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2em;
 }
 
 .logo {
-    width: 10px;
-    height: 10px;
+    width: 1em;
+    height: 1.5em;
+    margin: 0 1em;
 }
 
