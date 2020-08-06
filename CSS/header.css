@@ -12,7 +12,7 @@
 
 .navbar {
     display: flex;
-    align-items: center;
+    align-items: stretch;
     justify-content: space-between;
     padding: auto;
     margin: auto;
