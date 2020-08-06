@@ -38,6 +38,13 @@ button  {
 }
 
 .logo {
-    width: 2em;
-    height: 2em;
+    width: 1em;
+    height: 1em;
+}
+
+img{
+  border: none;
+  border-radius: 50%;
+  padding: 5px;
+  width: 200px;
 }
