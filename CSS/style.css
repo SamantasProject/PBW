@@ -38,16 +38,10 @@ button  {
     border-radius: 8px;
 }
 
-.logo {
-    width: 1em;
-    height: 1em;
-}
-
 img{
   border: none;
   border-radius: 50%;
   padding: 30px;
   width: 18em;
   height: 15em;
-
 }
