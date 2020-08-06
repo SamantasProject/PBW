@@ -1,6 +1,6 @@
 .header {
     display: flex;
-    align-items: stretch;
+    align-items: center;
     justify-content: stretch;
     background-color: #ffd733;
     padding: 1.5em 1.5em;
@@ -11,7 +11,7 @@
 
 .navbar {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
 }
 
 .logo {
