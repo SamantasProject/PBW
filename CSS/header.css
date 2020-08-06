@@ -1,8 +1,9 @@
 .header {
     grid-area: hd;
     display: flex;
+    flex-direction:row;
     align items: center;
-    justify-content: space-between;
+    justify-content: space-evenly;
     background-color: #ffd733;
     padding: 1.5em 1.5em;
     font-family:  "Roboto", sans-serif;
@@ -12,12 +13,13 @@
 
 .container {
     display: flex;
+    flex-direction: row;
     align items: center;
-    justify-content: space-between;
+    justify-content: space-evenly;
     width: 960px;
     max-width: 100%;
-    padding: 20px;
-    margin: 0 auto;
+    padding: auto;
+    margin: auto;
 }
 
 .nav ul {
