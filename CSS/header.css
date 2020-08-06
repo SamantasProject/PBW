@@ -11,18 +11,10 @@
 
 .navbar {
     display: flex;
-    flex-direction: row;
     align-items: center;
     justify-content: space-between;
-    width: auto;
     padding: auto;
     margin: auto;
-}
-
-.nav-items {
-    display: flex;
-    justify-content: space-between;
-    margin-bottom: 2em;
 }
 
 .logo {
