@@ -1,21 +1,13 @@
 .header {
     display: flex;
     flex-direction: row;
-    align-items: stretch;
+    align-items: center;
     justify-content: space-between;
     background-color: #ffd733;
     padding: 1.5em 1.5em;
     font-family:  "Roboto", sans-serif;
     font-size: 0.9em;
     font-color: #ff5733;
-}
-
-.navbar {
-    display: flex;
-    align-items: flex-end;
-    justify-content: space-between;
-    padding: auto;
-    margin: auto;
 }
 
 .logo {
