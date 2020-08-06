@@ -1,7 +1,7 @@
 .header {
     grid-area: hd;
     display: flex;
-    flex-direction:row;
+    flex-direction: row;
     align items: center;
     justify-content: space-evenly;
     background-color: #ffd733;
@@ -23,8 +23,7 @@
 }
 
 .nav ul {
-    margin: 1em 1em;
-    text-align: inline;
+    display: inline;
 }
 
 .nav li {
@@ -33,7 +32,6 @@
 
 .nav a {
     display: inline;
-    padding: 1em 1em;
 }
 
 .logo {
