@@ -9,7 +9,7 @@
     font-color: #ff5733;
 }
 
-.navbar {
+.nav {
     display: flex;
     justify-content: space-between;
     width: 20em;
