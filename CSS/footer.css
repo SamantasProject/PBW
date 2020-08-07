@@ -10,13 +10,6 @@
 }
 
 
-.social {
-    display: flex;
-    justify-content: center;
-    margin-bottom: 2em;
-}
-
-
 .social img {
     width: 100px;
     height: 100px;
