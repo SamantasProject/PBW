@@ -11,8 +11,8 @@
 
 .navbar {
     display: flex;
-    justify-content: center;
-    align-items: space-between;
+    justify-content: space-between;
+    
 }
 
 .logo {
