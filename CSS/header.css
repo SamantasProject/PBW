@@ -1,7 +1,7 @@
 .header {
     display: flex;
-    align-items: stretch;
-    justify-content: center;
+    align-items: center;
+    justify-content: stretch;
     background-color: #ffd733;
     padding: 1.5em 1.5em;
     font-family:  "Roboto", sans-serif;
