@@ -16,6 +16,13 @@
     
 }
 
+.nav img {
+    width: 30px;
+    height: 30px;
+    margin: 0 1em;
+    border-radius: none;
+}
+
 .logo {
     width: 100px;
     height: 100px;
