@@ -10,14 +10,14 @@
 }
 
 
-.social-media-links {
+.social {
     display: flex;
     justify-content: center;
     margin-bottom: 2em;
 }
 
 
-.social-media-links img {
+.social img {
     width: 100px;
     height: 100px;
     margin: 0 1em;
