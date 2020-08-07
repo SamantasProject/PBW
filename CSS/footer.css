@@ -9,6 +9,12 @@
     font-color: #ff5733;
 }
 
+.social {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 2em;
+}
+
 
 .social img {
     width: 100px;
