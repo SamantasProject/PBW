@@ -13,14 +13,12 @@
     position:center;
 }
 
-
 .nav {
     display: flex;
     justify-content: space-around;
     align-items: flex-end;
     width: 2em;
-    position: right;
-    
+    position: right;   
 }
 
 .nav-img {
