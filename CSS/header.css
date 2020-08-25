@@ -14,6 +14,7 @@
     justify-content: space-around;
     align-items: flex-end;
     width: 2em;
+    float: right;
     
 }
 
@@ -28,5 +29,6 @@
     width: 100px;
     height: 100px;
     margin: 0 1em;
+    float: left;
 }
 
