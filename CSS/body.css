@@ -44,16 +44,19 @@
   grid-column-start: 1; 
   grid-row-start: 2; 
   grid-row-end: 3; 
+  align-items: center;
 }
 
 .box_three { 
   grid-column-start: 1; 
   grid-row-start: 3; 
   grid-row-end: 4; 
+  align-items: center;
 }
 
 .box_four { 
   grid-column-start: 2; 
   grid-row-start: 2; 
   grid-row-end: 4; 
+  align-items: center;
 }
