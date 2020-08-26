@@ -10,9 +10,7 @@
 }
 
 .title {
-    position: fixed;
-    right: 0;
-    left: 0;
+    position: center;
     margin-right: auto;
     margin-left: auto;
 }
