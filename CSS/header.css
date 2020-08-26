@@ -16,7 +16,6 @@
 .nav {
     display: flex;
     justify-content: flex-end;
-    justify-content: space-between;
     width: 1em;
     position: right;   
 }
