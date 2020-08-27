@@ -10,13 +10,18 @@
 }
 
 .title {
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    height: 10em;
+    position: relative;
 }
 
 .title p {
-  margin: 0 }
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
 
 .nav {
     display: flex;
