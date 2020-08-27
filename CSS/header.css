@@ -15,6 +15,9 @@
     justify-content: center;
 }
 
+.title p {
+  margin: 0 }
+
 .nav {
     display: flex;
     justify-content: flex-end;
