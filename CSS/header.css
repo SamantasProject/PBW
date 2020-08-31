@@ -35,3 +35,45 @@
     position: left;
 }
 
+/* Mobile and Tablet */
+
+@media (min-width: 480px) and (max-width:991px) {
+    
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #ffd733;
+    padding: 0.6em 0.6em;
+    font-family:  "Roboto", sans-serif;
+    font-size: 0.8em;
+    font-color: #ff5733;
+}
+
+.title {
+    justify-content: center;
+}
+
+
+.nav {
+    display: flex;
+    justify-content: flex-end;
+    width: 0.5em;
+    position: right;   
+}
+
+.nav-img {
+    width: 15px;
+    height: 15px;
+    margin: 0 1em;
+    border-radius: 8px;
+}
+
+.logo {
+    width: 40px;
+    height: 40px;
+    margin: 0 1em;
+    position: left;
+}
+    
+}
