@@ -1,7 +1,3 @@
-.intro-text {
-    margin: 2em;
-}
-
 .all-posts {
     display: grid;
     align-items: center;
@@ -65,17 +61,14 @@
 /* Mobile and Tablet */
 
 @media (min-width: 480px) and (max-width:991px) {
-    
-    .intro-text {
-    margin: 2em;
-}
+
 
 .all-posts {
     display: grid;
     align-items: center;
     justify-content: space-evenly;
     grid-template-columns: 1fr;
-    grid-template-rows: auto;
+    grid-template-rows: 1fr 1fr 1fr;
     margin: 2em;
     gap: 2em;
     font-family: "Roboto", sans-serif;
@@ -94,7 +87,7 @@
     align-items: center;
     justify-content: space-evenly;
     grid-template-columns: 1fr;
-    grid-template-rows: auto;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
     margin: 2em;
     gap: 4em;
     font-family: "Roboto", sans-serif;
@@ -106,10 +99,12 @@
   grid-column-end: 2; 
   grid-row-start: 1; 
   grid-row-end: 2; 
+  text-align: center;
 }
 
 .box_two { 
   grid-column-start: 1; 
+  grid-column-end: 2; 
   grid-row-start: 2; 
   grid-row-end: 3; 
   text-align: center;
@@ -117,6 +112,7 @@
 
 .box_three { 
   grid-column-start: 1; 
+  grid-column-end: 2; 
   grid-row-start: 3; 
   grid-row-end: 4; 
   text-align: center;
@@ -124,10 +120,12 @@
 
 .box_four { 
   grid-column-start: 1; 
+  grid-column-end: 2; 
   grid-row-start: 4; 
   grid-row-end: 5; 
   text-align: center;
-    }
+}
+    
 }
     
     
