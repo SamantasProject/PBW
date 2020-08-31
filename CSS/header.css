@@ -10,7 +10,7 @@
 }
 
 .title {
-    justify-content: center;
+    text-align: center;
 }
 
 
@@ -51,7 +51,7 @@
 }
 
 .title {
-    justify-content: auto;
+    text-align: auto;
 }
 
 
