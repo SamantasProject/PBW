@@ -41,17 +41,13 @@
     
 .header {
     display: flex;
-    align-items: center;
+    align-items: stretch;
     justify-content: space-between;
     background-color: #ffd733;
     padding: 1em 1em;
     font-family:  "Roboto", sans-serif;
-    font-size: 0.5em;
+    font-size: 0.8em;
     font-color: #ff5733;
-}
-
-.title {
-    text-align: auto;
 }
 
 
