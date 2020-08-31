@@ -89,7 +89,7 @@
     grid-template-columns: 1fr;
     grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
     margin: 1em;
-    gap: 2em;
+    gap: 0.5em;
     font-family: "Roboto", sans-serif;
     color: #2F4F4F       
 }
