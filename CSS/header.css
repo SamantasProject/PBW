@@ -86,9 +86,59 @@
 }
 
 
-/* Tablet */
+/* Tablet (Portrait) */
 
 @media (min-width: 768px) and (max-width:1024px) {
+    
+	
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+    background-color: #ffd733;
+    padding: 1.5em 1.5em;
+    font-family:  "Roboto", sans-serif;
+    font-size: 0.9em;
+    font-color: #ff5733;
+}
+
+
+.title {
+    display: flex;
+    text-align: center;
+}
+
+
+.nav {
+    display: flex;
+    justify-content: flex-end;
+    width: 1em;
+    position: right;   
+}
+
+
+.nav-img {
+    width: 30px;
+    height: 30px;
+    margin: 0 1em;
+    border-radius: 8px;
+}
+
+
+.logo {
+    display: flex;
+    width: 75px;
+    height: 75px;
+    margin: 0 1em;
+    position: left;
+}
+	
+}
+
+/* Tablet (Landscape) */
+
+@media (min-width: 768px) and (max-width:1024px) and (orientation: landscape) {
     
 	
 .header {
