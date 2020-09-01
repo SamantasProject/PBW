@@ -148,10 +148,10 @@
     display: grid;
     align-items: center;
     justify-content: space-evenly;
-    grid-template-columns: 1fr;
-    grid-template-rows: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: auto;
     margin: 1em;
-    gap: 2em;
+    gap: 1em;
     font-family: "Roboto", sans-serif;
     color: #2F4F4F       
 }
@@ -168,10 +168,10 @@
 .wrapper {
     display: grid;
     align-items: center;
-    grid-template-columns: 1fr;
-    grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto;
     margin: 1em;
-    gap: 0.1em;
+    gap: 0.1 em;
     font-family: "Roboto", sans-serif;
     color: #2F4F4F       
 }
@@ -179,38 +179,35 @@
     
 .box_one { 
     grid-column-start: 1; 
-    grid-column-end: 2; 
+    grid-column-end: 3; 
     grid-row-start: 1; 
     grid-row-end: 2; 
-    text-align: center;
 }
 
-    
+
 .box_two { 
     grid-column-start: 1; 
-    grid-column-end: 2; 
     grid-row-start: 2; 
     grid-row-end: 3; 
     text-align: center;
 }
 
-    
+
 .box_three { 
     grid-column-start: 1; 
-    grid-column-end: 2; 
     grid-row-start: 3; 
     grid-row-end: 4; 
     text-align: center;
 }
 
-    
+
 .box_four { 
-    grid-column-start: 1; 
-    grid-column-end: 2; 
-    grid-row-start: 4; 
-    grid-row-end: 5; 
+    grid-column-start: 2; 
+    grid-row-start: 2; 
+    grid-row-end: 4; 
     text-align: center;
 }
+
 
 }
     
