@@ -72,3 +72,18 @@ ol  {
     text-align:center;
     list-style-position: inside;
 }
+
+
+/* Tablet */
+
+@media (min-width: 768px) and (max-width:1024px) {
+    
+    img {
+    border: none;
+    border-radius: 55%;
+    padding: 3px;
+    width: 15em;
+    height: 15em;
+}
+    
+}
