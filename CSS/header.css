@@ -20,6 +20,7 @@
 .nav {
     display: flex;
     justify-content: flex-end;
+    width: 0.5em;
     position: right;   
 }
 
