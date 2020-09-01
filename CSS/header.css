@@ -52,7 +52,7 @@
     flex-wrap: wrap;
     flex-direction: column;
     align-items: center;
-    justify-content: stretch;
+    justify-content: center;
     background-color: #ffd733;
     padding: 0.5em 0.5em;
     font-family:  "Roboto", sans-serif;
