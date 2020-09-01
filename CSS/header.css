@@ -1,6 +1,7 @@
 .header {
     display: flex;
     align-items: center;
+    justify-content: space-between;
     background-color: #ffd733;
     font-family:  "Roboto", sans-serif;
     font-size: 1.2em;
@@ -40,6 +41,7 @@
 .header {
     display: flex;
     align-items: start;
+    justify-content: space-between;
     background-color: #ffd733;
     padding: 1em 1em;
     font-family:  "Roboto", sans-serif;
