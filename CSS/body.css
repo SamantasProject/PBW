@@ -236,9 +236,9 @@
 
     
 .blog-post-card {
-    width: auto;
-    height: auto;
-    border-radius: 5%;
+    width: 85%;
+    height: 85%;
+    border-radius: 2%;
     text-align: center;
 }
 
