@@ -224,7 +224,7 @@
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: auto;
     margin: 1em;
-    gap: 1em;
+    gap: none;
     font-family: "Roboto", sans-serif;
     color: #2F4F4F       
 }
