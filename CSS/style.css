@@ -2,20 +2,24 @@
 @import "footer.css";
 @import "body.css";
 
+
 * {
     margin: 0;
     padding: 0;
 }
+
 
 p  {
     font-family: "Roboto", sans-serif;
     color: #2F4F4F
 }
 
+
 h1  {
     font-family: "Roboto", sans-serif;
     color: #2F4F4F
 }
+
 
 h2  {
     text-align: center;
@@ -25,11 +29,13 @@ h2  {
     color: #2F4F4F
 }
 
+
 h3  {
     text-align: center;
     font-family: "Roboto", sans-serif;
     color: #2F4F4F
 }
+
 
 button  {
     font-family: "Roboto", sans-serif;
@@ -46,6 +52,7 @@ button  {
     cursor: pointer;
 }
 
+
 img {
   border: none;
   border-radius: 55%;
@@ -54,10 +61,12 @@ img {
   height: 20em;
 }
 
+
 ul  {
     text-align:center;
     list-style-position: inside;
 }
+
 
 ol  {
     text-align:center;
