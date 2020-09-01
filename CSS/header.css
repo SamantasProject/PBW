@@ -61,6 +61,7 @@
 
 .nav {
     display: flex;
+    align-items: center;
     width: 1em;
     position: right;   
 }
