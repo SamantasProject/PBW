@@ -19,9 +19,7 @@
 
 .nav {
     display: flex;
-    justify-content: flex-end;
-    width: 0.5em;
-    position: right;   
+    justify-content: flex-end;  
 }
 
 
@@ -38,7 +36,6 @@
     width: 100px;
     height: 100px;
     margin: 0 1em;
-    position: left;
 }
 
 
@@ -61,8 +58,7 @@
 
 .nav {
     display: flex;
-    align-items: center;
-    position: right;   
+    align-items: center;  
 }
 
 	
@@ -79,7 +75,6 @@
     width: 50px;
     height: 50px;
     margin: 0 1em;
-    position: left;
 }
     
 }
@@ -111,8 +106,7 @@
 
 .nav {
     display: flex;
-    justify-content: flex-end;
-    position: right;   
+    justify-content: flex-end;  
 }
 
 
@@ -129,7 +123,6 @@
     width: 75px;
     height: 75px;
     margin: 0 1em;
-    position: left;
 }
 	
 }
@@ -160,8 +153,7 @@
 
 .nav {
     display: flex;
-    justify-content: flex-end;
-    position: right;   
+    justify-content: flex-end; 
 }
 
 
@@ -178,7 +170,6 @@
     width: 75px;
     height: 75px;
     margin: 0 1em;
-    position: left;
 }
 	
 }
