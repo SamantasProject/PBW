@@ -63,7 +63,6 @@
 
 .nav {
     display: flex;
-    justify-content: flex-end;
     width: 1em;
     position: right;   
 }
