@@ -1,9 +1,7 @@
 .header {
     display: flex;
     align-items: center;
-    justify-content: space-between;
     background-color: #ffd733;
-    padding: 1em 1em;
     font-family:  "Roboto", sans-serif;
     font-size: 1.2em;
     font-color: #ff5733;
@@ -41,8 +39,7 @@
     
 .header {
     display: flex;
-    align-items: stretch;
-    justify-content: space-between;
+    align-items: start;
     background-color: #ffd733;
     padding: 1em 1em;
     font-family:  "Roboto", sans-serif;
