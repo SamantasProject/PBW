@@ -49,6 +49,8 @@
 	
 .header {
     display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
     align-items: center;
     justify-content: space-between;
     background-color: #ffd733;
@@ -95,11 +97,18 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+    text-align: center;
     background-color: #ffd733;
-    padding: 1em 1em;
+    padding: 1.5em 1.5em;
     font-family:  "Roboto", sans-serif;
-    font-size: 0.8em;
+    font-size: 1.2em;
     font-color: #ff5733;
+}
+
+
+.title {
+    display: flex;
+    text-align: center;
 }
 
 
@@ -110,21 +119,21 @@
     position: right;   
 }
 
-	
+
 .nav-img {
-    width: 25px;
-    height: 25px;
+    width: 35px;
+    height: 35px;
     margin: 0 1em;
     border-radius: 8px;
 }
 
-	
+
 .logo {
     display: flex;
-    width: 50px;
-    height: 50px;
+    width: 100px;
+    height: 100px;
     margin: 0 1em;
     position: left;
 }
-    
+	
 }
