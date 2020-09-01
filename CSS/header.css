@@ -2,19 +2,12 @@
     display: flex;
     align-items: center;
     justify-content: space-around;
-    flex-wrap: wrap;
     background-color: #ffd733;
     font-family:  "Roboto", sans-serif;
     font-size: 1.2em;
     font-color: #ff5733;
 }
 
-.container {
-	width: 960px;
-	max-width: 100%;
-	padding: 20px;
-	margin: 0 auto;
-}
 
 .title {
     text-align: center;
@@ -28,6 +21,7 @@
     position: right;   
 }
 
+
 .nav-img {
     width: 35px;
     height: 35px;
@@ -35,10 +29,6 @@
     border-radius: 8px;
 }
 
-.nav a {
-	display: inline-block;
-	padding: .5em 1.5em;
-}
 
 .logo {
     width: 100px;
@@ -46,6 +36,7 @@
     margin: 0 1em;
     position: left;
 }
+
 
 /* Mobile and Tablet */
 
@@ -70,6 +61,7 @@
     position: right;   
 }
 
+	
 .nav-img {
     width: 25px;
     height: 25px;
@@ -77,6 +69,7 @@
     border-radius: 8px;
 }
 
+	
 .logo {
     width: 50px;
     height: 50px;
@@ -84,4 +77,3 @@
     position: left;
 }
     
-}
