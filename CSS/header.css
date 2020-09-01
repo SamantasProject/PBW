@@ -48,11 +48,11 @@
     
 	
 .header {
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: column;
+    display: grid;
     align-items: center;
-    justify-content: center;
+    justify-content: space-evenly;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
     background-color: #ffd733;
     padding: 0.5em 0.5em;
     font-family:  "Roboto", sans-serif;
