@@ -23,8 +23,8 @@
     justify-content: space-evenly;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: auto;
-    margin: 2em;
-    gap: 4em;
+    margin: 1em;
+    gap: 2em;
     font-family: "Roboto", sans-serif;
     color: #2F4F4F       
 }
