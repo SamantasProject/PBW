@@ -176,13 +176,21 @@
 }
 
 
+/* Centering title on header */
+
+
 @media (min-width: 768px){
-    header{
-        position: relative;
+	
+	
+ header{
+     position: relative;
     }
-    .title {
+	
+	
+ .title {
         position: absolute;
         left: 50%;
         transform: translateX(-50%);
     }
+	
 }
