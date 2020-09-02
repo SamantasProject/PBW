@@ -174,3 +174,15 @@
 }
 	
 }
+
+
+@media (min-width: 768px){
+    header{
+        position: relative;
+    }
+    .title {
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+}
