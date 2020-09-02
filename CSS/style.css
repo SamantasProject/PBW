@@ -73,3 +73,16 @@ ol  {
     list-style-position: inside;
 }
 
+/* Tablet (Landscape) */
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+    
+img {
+  border: none;
+  border-radius: 55%;
+  padding: 7px;
+  width: 19em;
+  height: 19em;
+}
+    
+}
